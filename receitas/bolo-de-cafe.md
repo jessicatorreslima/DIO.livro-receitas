@@ -1,6 +1,6 @@
-#Bolo de Café
+# Bolo de Café
 
-##Ingredientes
+## Ingredientes
 - 200g de manteiga ou margarina
 - 2 xícaras de açúcar
 - 4 ovos
@@ -10,7 +10,7 @@
 - 4 colheres de sopa de café solúvel
 - 1 colher de sopa de fermento
 
-##Modo de Preparo
+## Modo de Preparo
 
 1. Bata as gemas, a margarina e o açúcar até formar um creme esbranquiçado;
 2. Adicione o Nescau e bata até misturar bem;
